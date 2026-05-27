@@ -13,4 +13,13 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/devikar20/summer-foundation/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/devikar20/summer-foundation/tree/master/0412-fizz-buzz) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/devikar20/summer-foundation/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/devikar20/summer-foundation/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
