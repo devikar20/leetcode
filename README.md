@@ -21,6 +21,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/devikar20/summer-foundation/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/devikar20/summer-foundation/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/devikar20/summer-foundation/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
