@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devikar20/summer-foundation/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devikar20/summer-foundation/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/devikar20/summer-foundation/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devikar20/summer-foundation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devikar20/summer-foundation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devikar20/summer-foundation/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -49,4 +50,12 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devikar20/summer-foundation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devikar20/summer-foundation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/devikar20/summer-foundation/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/devikar20/summer-foundation/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
