@@ -1,9 +1,11 @@
 class Solution:
-    def runningSum(self, nums: List[int]) -> List[int]:
-        result=[nums[0]]
-        k=nums[0]
-        for i in range(1,len(nums)):
-            k=k+nums[i]
-            result.append(k)
-        return result
-        
+   def runningSum(self, nums: List[int]) -> List[int]:
+    runsum=[]
+    ans=0
+    n=len(nums)
+    for i in range(0,n):
+        ans=ans+nums[i]
+        runsum.append(ans)
+    return runsum
+
+
