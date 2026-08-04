@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/devikar20/summer-foundation/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/devikar20/summer-foundation/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/devikar20/summer-foundation/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/devikar20/summer-foundation/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/devikar20/summer-foundation/tree/master/0412-fizz-buzz) |
@@ -65,6 +66,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/devikar20/summer-foundation/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/devikar20/summer-foundation/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/devikar20/summer-foundation/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/devikar20/summer-foundation/tree/master/0509-fibonacci-number) |
