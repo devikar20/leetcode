@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/devikar20/summer-foundation/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devikar20/summer-foundation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0905-sort-array-by-parity](https://github.com/devikar20/summer-foundation/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devikar20/summer-foundation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devikar20/summer-foundation/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/devikar20/summer-foundation/tree/master/1480-running-sum-of-1d-array) |
@@ -42,10 +43,12 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/devikar20/summer-foundation/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devikar20/summer-foundation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devikar20/summer-foundation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
@@ -61,6 +64,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devikar20/summer-foundation/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +85,20 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devikar20/summer-foundation/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
