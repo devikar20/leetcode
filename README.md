@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devikar20/summer-foundation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/devikar20/summer-foundation/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devikar20/summer-foundation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/devikar20/summer-foundation/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/devikar20/summer-foundation/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devikar20/summer-foundation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -42,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devikar20/summer-foundation/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/devikar20/summer-foundation/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/devikar20/summer-foundation/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devikar20/summer-foundation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -59,6 +61,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devikar20/summer-foundation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devikar20/summer-foundation/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/devikar20/summer-foundation/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/devikar20/summer-foundation/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
